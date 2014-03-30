@@ -1,0 +1,8 @@
+A basic survey engine that runs solely in javascript / HTML
+
+Creates Surveys dynamically and does basic validation, browser does not store state.
+
+ - No Server 
+ - No DB
+
+
